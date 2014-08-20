@@ -11,7 +11,7 @@
     "crypto"
   ],
   "main": "./bcrypt",
-  "version": "0.7.5.1-goodeggs",
+  "version": "0.7.5+goodeggs-0.1.0",
   "author": "Nick Campbell (http://github.com/ncb000gt)",
   "engines": {
     "node": ">= 0.6.0"
